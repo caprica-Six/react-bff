@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "first_name": "Emmaline",
+    "last_name": "McCarry",
+    "email": "emccarry0@blogger.com",
+    "gender": "Agender",
+    "ip_address": "89.22.31.164",
+    "address": "37338 Anderson Junction",
+    "created_at": "9/3/2022"
+  },
+  {
+    "id": 2,
+    "first_name": "Lane",
+    "last_name": "Remmer",
+    "email": "lremmer1@mediafire.com",
+    "gender": "Male",
+    "ip_address": "149.61.46.0",
+    "address": "0591 4th Way",
+    "created_at": "6/21/2022"
+  },
+  {
+    "id": 3,
+    "first_name": "Jeremias",
+    "last_name": "Langlais",
+    "email": "jlanglais2@europa.eu",
+    "gender": "Male",
+    "ip_address": "253.39.220.254",
+    "address": "0824 Scott Avenue",
+    "created_at": "12/10/2022"
+  },
+  {
+    "id": 4,
+    "first_name": "D'arcy",
+    "last_name": "MacGeaney",
+    "email": "dmacgeaney3@chron.com",
+    "gender": "Male",
+    "ip_address": "78.59.47.98",
+    "address": "4 Morning Parkway",
+    "created_at": "8/28/2022"
+  },
+  {
+    "id": 5,
+    "first_name": "Carver",
+    "last_name": "Habercham",
+    "email": "chabercham4@si.edu",
+    "gender": "Male",
+    "ip_address": "209.178.26.155",
+    "address": "18146 Onsgard Road",
+    "created_at": "12/18/2022"
+  },
+  {
+    "id": 6,
+    "first_name": "Hilliary",
+    "last_name": "Abrami",
+    "email": "habrami5@squarespace.com",
+    "gender": "Female",
+    "ip_address": "83.155.232.151",
+    "address": "54779 Sullivan Alley",
+    "created_at": "2/20/2022"
+  },
+  {
+    "id": 7,
+    "first_name": "Filbert",
+    "last_name": "Brettoner",
+    "email": "fbrettoner6@uiuc.edu",
+    "gender": "Male",
+    "ip_address": "184.251.212.31",
+    "address": "89338 Sutteridge Court",
+    "created_at": "9/19/2022"
+  },
+  {
+    "id": 8,
+    "first_name": "Chucho",
+    "last_name": "Verna",
+    "email": "cverna7@businessinsider.com",
+    "gender": "Male",
+    "ip_address": "181.34.246.52",
+    "address": "0 Pleasure Drive",
+    "created_at": "4/24/2022"
+  },
+  {
+    "id": 9,
+    "first_name": "Thibaud",
+    "last_name": "Bazire",
+    "email": "tbazire8@princeton.edu",
+    "gender": "Male",
+    "ip_address": "179.136.48.2",
+    "address": "50 Vahlen Center",
+    "created_at": "1/18/2022"
+  },
+  {
+    "id": 10,
+    "first_name": "Dolorita",
+    "last_name": "Addyman",
+    "email": "daddyman9@bandcamp.com",
+    "gender": "Female",
+    "ip_address": "187.213.86.13",
+    "address": "2 Bay Lane",
+    "created_at": "3/19/2022"
+  },
+  {
+    "id": 11,
+    "first_name": "Ced",
+    "last_name": "Yoselevitch",
+    "email": "cyoselevitcha@house.gov",
+    "gender": "Male",
+    "ip_address": "108.236.117.125",
+    "address": "2523 Bluejay Terrace",
+    "created_at": "8/2/2022"
+  },
+  {
+    "id": 12,
+    "first_name": "Kipp",
+    "last_name": "Kinnerley",
+    "email": "kkinnerleyb@goo.gl",
+    "gender": "Female",
+    "ip_address": "56.254.102.244",
+    "address": "523 Fallview Street",
+    "created_at": "3/5/2022"
+  },
+  {
+    "id": 13,
+    "first_name": "Joey",
+    "last_name": "Wilce",
+    "email": "jwilcec@pbs.org",
+    "gender": "Male",
+    "ip_address": "159.92.105.20",
+    "address": "701 Little Fleur Place",
+    "created_at": "11/7/2022"
+  },
+  {
+    "id": 14,
+    "first_name": "Alistair",
+    "last_name": "Antonijevic",
+    "email": "aantonijevicd@omniture.com",
+    "gender": "Male",
+    "ip_address": "82.207.226.104",
+    "address": "92 Everett Plaza",
+    "created_at": "12/16/2022"
+  },
+  {
+    "id": 15,
+    "first_name": "Worden",
+    "last_name": "Wilce",
+    "email": "wwilcee@deviantart.com",
+    "gender": "Male",
+    "ip_address": "20.26.225.126",
+    "address": "691 Farwell Way",
+    "created_at": "12/15/2022"
+  },
+  {
+    "id": 16,
+    "first_name": "Rolph",
+    "last_name": "Wyrall",
+    "email": "rwyrallf@vistaprint.com",
+    "gender": "Genderqueer",
+    "ip_address": "187.188.203.237",
+    "address": "6130 Lakeland Way",
+    "created_at": "11/21/2022"
+  },
+  {
+    "id": 17,
+    "first_name": "Lou",
+    "last_name": "Finlow",
+    "email": "lfinlowg@aol.com",
+    "gender": "Male",
+    "ip_address": "199.141.21.85",
+    "address": "86 Welch Plaza",
+    "created_at": "10/15/2022"
+  },
+  {
+    "id": 18,
+    "first_name": "Teressa",
+    "last_name": "Smithers",
+    "email": "tsmithersh@csmonitor.com",
+    "gender": "Female",
+    "ip_address": "124.206.162.153",
+    "address": "09071 Fallview Plaza",
+    "created_at": "11/11/2022"
+  }
+]
