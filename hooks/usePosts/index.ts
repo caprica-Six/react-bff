@@ -1,10 +1,14 @@
-import ky from "ky-universal";
 import { useQuery } from "@tanstack/react-query";
 
-// can use axios, but ky is best for SSR web apps
+// can use axios, fetchAPI, but ky is best for SSR web apps
+// key throws an 'unknown' error
 const fetchPosts = async (limit = 10) => {
-  const parsed = await ky("https://jsonplaceholder.typicode.com/posts").json();
-  return parsed.filter((x: { id: number }) => x.id <= limit);
+  const response = await fetch("https://jsonplaceholder.typicode.com/posts");
+  const result = await response.json();
+
+  const filteredData = result.filter((x: { id: number }) => x.id <= limit);
+
+  return filteredData;
 };
 
 const usePosts = (limit: number | undefined) => {
